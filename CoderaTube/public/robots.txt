@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://coderatube.com/sitemap.xml
